@@ -10,6 +10,11 @@ This repository demonstrates production-grade Git workflows for Cloud & DevOps e
 - Regression debugging using git bisect
 - Versioning with tags + changelog
 
+
 ## Contributing
 - Use feature branches
 - Keep commits atomic
+=======
+## Running tests
+python -m pytest
+
