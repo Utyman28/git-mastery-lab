@@ -9,3 +9,7 @@ This repository demonstrates production-grade Git workflows for Cloud & DevOps e
 - Recovery using reflog
 - Regression debugging using git bisect
 - Versioning with tags + changelog
+
+## Contributing
+- Use feature branches
+- Keep commits atomic
