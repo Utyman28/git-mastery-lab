@@ -21,5 +21,11 @@ This repository demonstrates production-grade Git workflows for Cloud & DevOps e
 ```bash
 python -m pytest
 
+## How to review this repository
+
+To understand the workflows demonstrated here:
+- Review the commit history using `git log --oneline --graph`
+- Inspect the rebase and recovery steps via `git reflog`
+- Review the feature branch PR history
 
 
