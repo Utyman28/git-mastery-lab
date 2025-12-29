@@ -1,5 +1,8 @@
 # Git Mastery Lab
 
+This repository demonstrates **production-grade Git workflows** commonly used in **Cloud & DevOps teams**.
+
+It focuses on **safe collaboration, clean history, and recovery techniques** rather than basic Git commands.
 This repository demonstrates production-grade Git workflows for Cloud & DevOps engineers.
 
 ## What this repo proves
