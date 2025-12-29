@@ -1,6 +1,6 @@
 # Git Mastery Lab
 
-This repository demonstrates production-grade Git workflows for Cloud & DevOps engineers.
+This repository demonstrates production-grade Git workflows commonly used in Cloud & DevOps teams(rebase, conflict resolution, rollback, recovery).
 
 ## What this repo proves
 - Atomic commits via interactive staging (`git add -p`)
